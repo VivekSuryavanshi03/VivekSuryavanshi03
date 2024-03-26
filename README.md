@@ -1,4 +1,5 @@
-![logo](https://github.com/VivekSuryavanshi03/VivekSuryawanshi03/blob/main/Welcome%20to%20MY%20GITHUB%20%E2%9C%8C%EF%B8%8F%F0%9F%98%89.png)
+<img src="https://github.com/VivekSuryavanshi03/VivekSuryawanshi03/blob/main/Welcome%20to%20MY%20GITHUB%20%E2%9C%8C%EF%B8%8F%F0%9F%98%89.png" width="1000">
+
 
 <h1 align="center">Hi 👋, I'm Vivek Kumar</h1>
 <h3 align="center">A passionate Data Science Learner from India</h3>
