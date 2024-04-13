@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/VivekSuryavanshi03](https://github.com/VivekSuryavanshi03)
 
-- 📫 How to reach me **vivek.202ug3014@iiitranchi.ac.in**
+- 📫 How to reach me **vivek.2022ug3014@iiitranchi.ac.in**
 
 - ⚡ Fun fact **Engineers: Master Builders of Tomorrow**
 
