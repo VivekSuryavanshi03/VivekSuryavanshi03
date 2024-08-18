@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viveksuryavanshi03&label=Profile%20views&color=0e75b6&style=flat" alt="viveksuryavanshi03" /> </p>
 
-- 🔭 I’m currently working on [Machine learning and deep learning projects](https://github.com/VivekSuryavanshi03)
+- 🔭 I’m currently working on [GenAI projects](https://github.com/VivekSuryavanshi03)
 
-- 🌱 I’m currently learning **Deep learning**
+- 🌱 I’m currently learning **GenAI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/VivekSuryavanshi03](https://github.com/VivekSuryavanshi03)
 
